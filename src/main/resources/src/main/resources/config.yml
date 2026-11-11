@@ -1,1 +1,23 @@
 
+settings:
+  prefix: "&8[&6CombatPower&8] "
+  decimal-format: "#,##0.##"
+  update-interval: 20
+
+  include-main-hand: true
+  include-off-hand: true
+  include-armor: true
+  include-accessories: true
+
+stats:
+  ATTACK_DAMAGE: 10.0
+  ATTACK_SPEED: 5.0
+  CRITICAL_STRIKE_CHANCE: 8.0
+  CRITICAL_STRIKE_POWER: 3.0
+  MAX_HEALTH: 2.0
+  DEFENSE: 5.0
+  PVP_DAMAGE: 10.0
+  PVE_DAMAGE: 10.0
+  MOVEMENT_SPEED: 100.0
+  ARMOR: 5.0
+
